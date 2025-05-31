@@ -35,7 +35,7 @@
 ---
 
 ## 📫 Как связаться
-- **Telegram**: [@ваш_ник](https://t.me/@froloviy_of)  
+- **Telegram**: [@froloviy_of](https://t.me/@froloviy_of)  
 - **Почта**: ilya.frolov.dev@outlook.com, ilya.frolov.dev@yandex.ru
 - **Резюме**: [PDF-ссылка](https://drive.google.com/...)  
 
